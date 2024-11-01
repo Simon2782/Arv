@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arv", "Arv\Arv.csproj", "{C4664627-BBDD-4EEE-890A-A2B3DB3918EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4664627-BBDD-4EEE-890A-A2B3DB3918EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4664627-BBDD-4EEE-890A-A2B3DB3918EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4664627-BBDD-4EEE-890A-A2B3DB3918EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4664627-BBDD-4EEE-890A-A2B3DB3918EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42BA8852-FF49-4539-826E-23047255E700}
+	EndGlobalSection
+EndGlobal
